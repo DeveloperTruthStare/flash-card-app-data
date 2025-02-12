@@ -1,0 +1,21 @@
+Language
+- Types (language)
+- Moves (types, language)
+- Ability (language)
+- Pokemon (type, movelist, abilities, language)
+-  Pokedex entry (pokemon, language)
+
+- Stats (language)
+- Pokémon Natures (stats, language)
+
+
+Location Names
+
+Item Names
+- Item Description
+
+UI Element
+
+Dialogue
+
+Character Names
